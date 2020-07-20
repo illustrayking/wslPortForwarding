@@ -1,8 +1,8 @@
 <div dir="rtl">
 
-# روش حل مشکل WSL2 به شیوه Port-Forwarding
+# حل مشکل WSL2 به شیوه Port-Forwarding
 
-![banner](./images/virgool-post.png)
+![banner](./images/virgoolPost.png)
 
 ## مقدمه
 
